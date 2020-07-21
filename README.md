@@ -1,1 +1,1 @@
-# studio-6-quiz
+# studio-6-com.weird.quiz
